@@ -32,6 +32,21 @@ Fondateur de [Maxode](https://www.maxode.com), j'accompagne startups, PME et fon
 | [Amsitt](https://www.maxode.com/projets/amsitt) | Architecture et développement complet d'un SaaS | Paiements, administration et notifications livrés dans une application stable |
 | [Syrhm](https://www.maxode.com/projets/syrhm) | Transformation d'une vision RH en SaaS | Produit conçu de A à Z autour du besoin métier |
 
+## Réalisations par domaine
+
+| Domaine | Exemples | Ce que cela démontre |
+|---|---|---|
+| SaaS et produits B2B | Syrhm, FoodTruckGo, ShiftEase, SitePilot, Velocy, STANN | Multi-tenant, rôles, abonnements, portails clients et workflows métier |
+| IA et automatisation | PropriétéAI, KURA, Avis Google, ZenRecover | IA générative, vision, validation humaine et automatisations contrôlées |
+| E-commerce | Elaia Bijoux, V&A Studio | Catalogue, CMS, panier, Stripe, commandes et autonomie éditoriale |
+| Applications métier | MLC E-Logistics, Facadia, Audomicile Manager, Delivery Note Manager | Logistique, fichiers DWG/DXF, PDF, facturation et outils desktop |
+| Terrain et offline | WoodProof, diagnostic bâtiment | Plans 2D, géométrie, preuves photo, signature et synchronisation hors ligne |
+| Intégrations et API | Shopify-Sendcloud, EUDR Copilot | Webhooks, files de traitement, idempotence, audit et données réglementaires |
+| Web, SEO et accessibilité | AccessiWeb Pro, Audomicile, EXITT, SAFE TOIT | WCAG, WordPress sur mesure, SEO local, performance et conversion |
+| R&D technique | ApexVision, Kraken Bot, Google Ads Audit | Vision par ordinateur, moteurs de risque et diagnostics automatisés |
+
+Les dépôts clients restent privés. Les fiches détaillées sont présentées sur mon [portfolio Codeur.com](https://www.codeur.com/-maxode/portfolio) sans exposer de code ni de données confidentielles.
+
 ## Stack principale
 
 `TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `FastAPI` · `Flutter` · `PostgreSQL` · `Supabase` · `Stripe` · `Docker` · `Vercel`
