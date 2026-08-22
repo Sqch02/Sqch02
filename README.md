@@ -5,6 +5,7 @@ Je transforme des besoins métier en **SaaS, applications web et produits IA uti
 Fondateur de [Maxode](https://www.maxode.com), j'accompagne startups, PME et fondateurs du cadrage à la mise en ligne : UX/UI, architecture, développement, paiements, sécurité, déploiement et documentation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-maxode.com-111315?style=for-the-badge)](https://www.maxode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime_Lespineux-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-lespineux/)
 [![Codeur.com](https://img.shields.io/badge/Codeur.com-5%2F5_·_9_recommandations-2f80ed?style=for-the-badge)](https://www.codeur.com/-maxode)
 [![Prendre rendez-vous](https://img.shields.io/badge/Échanger-30_min-20b486?style=for-the-badge)](https://cal.eu/maxode/30min)
 
