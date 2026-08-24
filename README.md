@@ -1,77 +1,84 @@
-# Maxime Lespineux — Développeur Full-Stack senior
+<div align="center">
 
-Je transforme des besoins métier en **SaaS, applications web et produits IA utilisables en production**.
+# Maxime Lespineux
 
-Fondateur de [Maxode](https://www.maxode.com), j'accompagne startups, PME et fondateurs du cadrage à la mise en ligne : UX/UI, architecture, développement, paiements, sécurité, déploiement et documentation.
+### Développeur Full-Stack senior · Fondateur de Maxode
+
+Je conçois, reprends et mets en production des **SaaS**, **applications métier**, **API** et **fonctionnalités IA**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-maxode.com-111315?style=for-the-badge)](https://www.maxode.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime_Lespineux-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-lespineux/)
-[![Codeur.com](https://img.shields.io/badge/Codeur.com-5%2F5_·_9_recommandations-2f80ed?style=for-the-badge)](https://www.codeur.com/-maxode)
-[![Prendre rendez-vous](https://img.shields.io/badge/Échanger-30_min-20b486?style=for-the-badge)](https://cal.eu/maxode/30min)
+[![Codeur.com](https://img.shields.io/badge/Codeur.com-5%2F5_·_9_avis-2563eb?style=for-the-badge)](https://www.codeur.com/-maxode)
+[![Rendez-vous](https://img.shields.io/badge/Parler_du_projet-30_min-16a085?style=for-the-badge)](https://cal.eu/maxode/30min)
 
-## Ce que mes clients peuvent vérifier
+</div>
 
-- **28+ projets livrés** et **7+ ans d'expérience**
-- **5,0/5 sur 9 recommandations publiques** sur [Codeur.com](https://www.codeur.com/-maxode)
-- Des [études de cas détaillées](https://www.maxode.com/projets) avec le contexte, les choix et le résultat
-- Un seul interlocuteur du cadrage à la mise en production
-- Le code est documenté, transmis et reste la propriété du client
+## Ce que je prends en charge
 
-## Produits et interfaces réelles
+- **Lancement** : transformer un besoin métier en MVP puis en produit exploitable.
+- **Reprise** : diagnostiquer un projet bloqué, corriger les points critiques et reprendre les livraisons.
+- **Intégration** : connecter paiements, services tiers, webhooks, données et automatisations.
+- **Production** : architecture, sécurité, tests, déploiement, observabilité et documentation.
+
+Je travaille avec des fondateurs, PME et agences qui recherchent un interlocuteur technique unique, capable de comprendre le produit autant que le code.
+
+## Réalisations sélectionnées
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.maxode.com/projets/kura"><img src="assets/kura.jpg" alt="Interface réelle de KURA" /></a>
-      <h3>KURA — Vision IA</h3>
-      <p>Sélection et séquencement de photos à partir d'une pellicule. Pipeline testé de bout en bout sur 246 images réelles.</p>
+      <h3>KURA · Vision IA</h3>
+      <p>Analyse et sélection d'images, classement, séquencement et validation humaine dans une interface produit complète.</p>
       <a href="https://www.maxode.com/projets/kura">Voir l'étude de cas →</a>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.maxode.com/projets/elaia-bijoux"><img src="assets/elaia-bijoux.jpg" alt="Boutique Elaia Bijoux en production" /></a>
-      <h3>Elaia Bijoux — E-commerce</h3>
-      <p>Boutique complète, paiement, commandes et panneau d'administration pour rendre la cliente autonome.</p>
+      <h3>Elaia Bijoux · E-commerce</h3>
+      <p>Catalogue, panier, paiement, commandes et administration réunis dans une boutique exploitée en autonomie.</p>
       <a href="https://www.maxode.com/projets/elaia-bijoux">Voir l'étude de cas →</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://www.maxode.com/projets/merule-rapport"><img src="assets/merule-rapport.jpg" alt="Interface réelle de MéruleRapport" /></a>
-      <h3>MéruleRapport — Application métier</h3>
-      <p>PWA terrain pour organiser les inspections, travailler hors ligne et produire des rapports vérifiables.</p>
+      <a href="https://www.maxode.com/projets/merule-rapport"><img src="assets/merule-rapport.jpg" alt="Application métier MéruleRapport" /></a>
+      <h3>MéruleRapport · Logiciel métier</h3>
+      <p>PWA terrain, fonctionnement hors ligne, preuves photo et génération de rapports structurés.</p>
       <a href="https://www.maxode.com/projets/merule-rapport">Voir l'étude de cas →</a>
     </td>
   </tr>
 </table>
 
-## Ce que je construis
+## Produits et systèmes développés
 
-- SaaS B2B multi-tenant avec authentification, rôles, abonnements et back-office
-- Applications métier qui remplacent les fichiers Excel et les tâches manuelles
-- Produits intégrant l'IA : traitement documentaire, analyse d'images et automatisations contrôlées
-- E-commerce complet avec paiement, commandes et autonomie éditoriale
-- API, intégrations tierces, PWA hors ligne et logiciels desktop
-
-## Autres réalisations par domaine
-
-| Domaine | Exemples | Ce que cela démontre |
+| Projet | Type | Briques techniques principales |
 |---|---|---|
-| SaaS et produits B2B | Syrhm, FoodTruckGo, ShiftEase, SitePilot, Velocy, STANN | Multi-tenant, rôles, abonnements, portails clients et workflows métier |
-| IA et automatisation | PropriétéIA, KURA, Avis Google, ZenRecover | IA générative, vision, validation humaine et automatisations contrôlées |
-| E-commerce | Elaia Bijoux, V&A Studio | Catalogue, panier, paiement, commandes et autonomie éditoriale |
-| Applications métier | MLC E-Logistics, Facadia, Audomicile Manager, Delivery Note Manager | Logistique, fichiers DWG/DXF, PDF, facturation et outils desktop |
-| Terrain et offline | WoodProof, MéruleRapport | Plans, preuves photo, rapports et synchronisation hors ligne |
-| Intégrations et API | Shopify-Sendcloud, EUDR Copilot | Webhooks, files de traitement, idempotence, audit et données réglementaires |
+| **SYRHM** | SaaS métier | Authentification, rôles, workflows, données et administration |
+| **STANN** | Logiciel d'exploitation | Clients, interventions, stocks, facturation et tableaux de bord |
+| **MLC E-Logistics** | ERP logistique | Multi-tenant, PostgreSQL, RLS, synchronisation Sendcloud et facturation |
+| **EUDR Copilot** | Outil de conformité | Ingestion de données, normalisation, audit et automatisations |
+| **XPERFO** | Logiciel desktop | Distribution de versions, manifestes et vérification SHA-256 des mises à jour |
+| **KURA** | Produit IA | Traitement d'images, scoring, recommandations et validation humaine |
 
-Les dépôts clients restent privés par défaut. Les réalisations sont présentées sur le [portfolio Maxode](https://www.maxode.com/projets) et sur [Codeur.com](https://www.codeur.com/-maxode/portfolio) sans publier de code, de secrets ou de données confidentielles.
+La majorité des dépôts clients reste privée. Je présente les fonctionnalités, décisions d'architecture et interfaces autorisées sans publier de secrets, de données personnelles ni de code confidentiel.
+
+## Dépôts publics utiles
+
+- [MLC E-Logistics Inventory Pilot](https://github.com/Sqch02/mlc-elogistics-inventory-pilot) — application logistique multi-tenant avec synchronisation Sendcloud.
+- [STANN Frontend](https://github.com/Sqch02/stann_app_frontend) — interface React/TypeScript pour une application de gestion opérationnelle.
+- [XPERFO Releases](https://github.com/Sqch02/XPERFO-Releases) — mécanisme public de distribution et de vérification des mises à jour.
+- [Calendrier Prodige](https://github.com/Sqch02/calendrier_prodige) — calendrier d'entreprise React, Node.js et MongoDB.
 
 ## Stack principale
 
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `FastAPI` · `Flutter` · `PostgreSQL` · `Supabase` · `Stripe` · `Docker` · `Vercel`
+`TypeScript` · `Next.js` · `React` · `Node.js` · `NestJS` · `Python` · `FastAPI` · `Flutter` · `PostgreSQL` · `Supabase` · `Redis` · `Stripe` · `Docker` · `Vercel`
 
-## Ma façon de travailler
+## Méthode de travail
 
-1. Clarifier le problème, les utilisateurs et le résultat attendu.
+1. Cadrer le besoin, les utilisateurs et le résultat attendu.
 2. Définir un périmètre livrable et une architecture maintenable.
-3. Montrer régulièrement l'avancement pour éviter les mauvaises surprises.
-4. Tester, documenter, déployer et transmettre un produit que le client possède.
+3. Montrer régulièrement l'avancement sur un environnement de démonstration.
+4. Tester, documenter, déployer et transmettre un produit que le client maîtrise.
 
-Vous avez un SaaS à lancer, une application à reprendre ou un processus à automatiser ? [Parlons du projet pendant 30 minutes](https://cal.eu/maxode/30min).
+**28+ projets livrés · 7+ ans d'expérience · 5/5 sur 9 avis vérifiés**
+
+Vous avez un produit à lancer, une application à reprendre ou un processus à automatiser ?  
+[Réserver un échange de 30 minutes](https://cal.eu/maxode/30min) · [Voir les réalisations Maxode](https://www.maxode.com/projets)
